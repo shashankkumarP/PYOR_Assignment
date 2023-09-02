@@ -1,0 +1,29 @@
+{
+  "name": "assignment",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "20.5.7",
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.2.7",
+    "@types/styled-components": "^5.1.26",
+    "apexcharts": "^3.42.0",
+    "axios": "^1.5.0",
+    "echarts": "^5.4.3",
+    "eslint": "8.48.0",
+    "eslint-config-next": "13.4.19",
+    "next": "13.4.19",
+    "react": "18.2.0",
+    "react-apexcharts": "^1.4.1",
+    "react-dom": "18.2.0",
+    "react-select": "^5.7.4",
+    "styled-components": "^6.0.7",
+    "typescript": "5.2.2"
+  }
+}
