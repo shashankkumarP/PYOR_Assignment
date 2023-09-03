@@ -84,6 +84,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 - [Github-Repo](https://github.com/shashankkumarP/PYOR_Assignment)
+- [Deployment](https://pyor-assignment-virid.vercel.app/)
 
 ## Show your support
 
