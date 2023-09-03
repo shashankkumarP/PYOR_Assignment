@@ -16,6 +16,7 @@ const Display = () => {
     })();
   }, [SelectedOption,dimention]);
 
+  
   return (
     <StyledComponentWithParams Row={dimention.Row} Column={dimention.Column}>
       {data.length != 0

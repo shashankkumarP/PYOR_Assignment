@@ -9,6 +9,7 @@ const Button = ({ direction }: { direction: string }) => {
     direction == "Row" ? RowCount(a) : ColumnCount(a);
   };
 
+  
   return (
     <div
       style={{

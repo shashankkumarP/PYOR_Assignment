@@ -5,6 +5,7 @@ import { init } from "echarts";
 const ApacheCharts = ({ data, name }) => {
   const chartRef = useRef(null);
 
+  
   useEffect(() => {
     const chart = init(chartRef.current);
 

@@ -12,6 +12,7 @@ export const StyledComponentWithParams = styled.div<{
   margin-top: 30px;
 `;
 
+
 export const StyledPageLayout = styled.div`
  margin: 5px;
  box-sizing: border-box;

@@ -10,6 +10,7 @@ export const FetchCryptoCurrencies = async(data:string[])=>{
         let result =  fetch_result.json();
         return result;
      }));
+     
     return promises_resolved
    
 

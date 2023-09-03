@@ -6,6 +6,7 @@ import {StyledPageLayout,StyledSelectCurrecies,StyledSelectRowColumn} from "./ut
 import './globals.css'
 
 export default function Home() {
+  
   return (
     <StyledPageLayout>
       <StyledSelectCurrecies >CryptoCurrencies Insights</StyledSelectCurrecies>
